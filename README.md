@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-**kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo :)**
+**my first ever repo on my GitHub profile :)**
 *zeyneplita*
 
 ***ilovecoding***
