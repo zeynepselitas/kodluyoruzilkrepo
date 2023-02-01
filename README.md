@@ -1,2 +1,3 @@
 # kodluyoruzilkrepo
-kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
+**kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo :)**
+*zeyneplita*
