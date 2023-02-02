@@ -26,3 +26,6 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+
+![](https://patika-prod.s3-eu-central-1.amazonaws.com/userFiles/zeyneplita/projects/omyoxpZBmRoyZMMYJ-kodluyoruzilkrepo)
